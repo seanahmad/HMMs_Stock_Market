@@ -105,3 +105,6 @@ To run tests using docker, use:
 ```shell
 docker-compose up tests
 ```
+
+DISCLAIMER 
+I created this project whilst at university and so it does not represent the views of Bloomberg, Bloomberg Personnel or Customers. 
